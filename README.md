@@ -30,7 +30,9 @@ See Wiki for advanced usage.
 
 # 📦 Установка
 git clone https://github.com/jansavitskiy/excel-splitter.git
+
 cd excel-splitter
+
 pip install -r requirements.txt
 
 # 🚀 Быстрый старт
