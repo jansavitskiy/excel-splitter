@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.venv/
+venv/
+
+# Данные и логи
+*.xlsx
+*.log
+data/
+
+# IDE
+.vscode/
+.idea/
